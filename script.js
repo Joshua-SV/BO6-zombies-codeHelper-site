@@ -77,7 +77,7 @@ ykey.forEach((key) => {
         
         if (!Number.isNaN(y) && !Number.isNaN(z)) 
         {
-            secondCode(y, z);// display first code
+            secondCode(y, z);// display second code
         }
         if (!Number.isNaN(x) && !Number.isNaN(y) && !Number.isNaN(z))// check for third code
         {
@@ -95,7 +95,7 @@ zkey.forEach((key) => {
         
         if (!Number.isNaN(y) && !Number.isNaN(z)) 
         {
-            secondCode(y, z);// display first code
+            secondCode(y, z);// display second code
         }
         if (!Number.isNaN(x) && !Number.isNaN(y) && !Number.isNaN(z))// check for third code
         {
